@@ -1,5 +1,3 @@
-# ML_Classification
-
 # 🧠 **Machine Learning Supervisé pour la Santé**
 
 ## 🎯 **Problème à Résoudre**
