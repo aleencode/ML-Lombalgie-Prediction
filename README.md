@@ -1,10 +1,10 @@
-# 🧠 **Machine Learning Supervisé pour la Santé**
+# **Machine Learning Supervisé pour la Santé**
 
-## 🎯 **Problème à Résoudre**
+##    **Problème à Résoudre**
 Prédire le **risque de développer des douleurs lombaires** à partir de caractéristiques biomécaniques et physiques.  
-📊 Approche : Problème de **classification supervisée**.
+Approche : Problème de **classification supervisée**.
 
-## 📑 **Étapes du Projet**
+##  **Étapes du Projet**
 1. **Packages & Préparation** : Import des bibliothèques nécessaires.
 2. **Exploration des Données** :
    - Importation et nettoyage.
@@ -23,13 +23,11 @@ Prédire le **risque de développer des douleurs lombaires** à partir de caract
    - Courbes de gains cumulés.
 
 
-## 🔥 **Pourquoi ce Projet est Important**
-Les douleurs lombaires touchent **4 personnes sur 5** en France au cours de leur vie. Ce projet propose des outils prédictifs basés sur le Machine Learning pour :
-- **Identifier les facteurs de risque**.
-- **Aider à la prévention des lombalgies**.
+##  **Pourquoi ce Projet est Important**
+Les douleurs lombaires touchent **4 personnes sur 5** en France au cours de leur vie. Ce projet propose des outils prédictifs basés sur le Machine Learning pour aider à la prévention des lombalgies.
 
 
-## 🚀 **Résultats**
+##  **Résultats**
 ### **Modèles Étudiés** :
 | Modèle               | Exactitude | AUC  |
 |----------------------|------------|------|
