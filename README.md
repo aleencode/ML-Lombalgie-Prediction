@@ -1,4 +1,4 @@
-# **Machine Learning Supervisé pour la Santé**
+# **Machine Learning Supervisé**
 
 ##    **Problème à Résoudre**
 Prédire le **risque de développer des douleurs lombaires** à partir de caractéristiques biomécaniques et physiques.  
